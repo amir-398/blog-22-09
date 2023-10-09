@@ -1,4 +1,10 @@
 /* Header */
+#purple-text{
+	color: purple;
+	font-weight: 700;
+	font-size: 16px;
+	border: 1px solid purple;
+}
 
 .section-tigre-blanc{
 	background-image: url("../images/white-tiger-PB.jpg");
